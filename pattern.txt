@@ -1,0 +1,19 @@
+<div q> questions[0]
+
+if (myInp === answers[0]){}
+
+onclick finishes & functions
+=====================================
+
+<div q> questions[1]
+
+if (myInp === answers[1]){}
+
+onclick finishes & functions
+=====================================
+
+<div q> questions[2]
+
+if (myInp === answers[2]){}
+
+onclick finishes & functions

@@ -1,0 +1,23 @@
+body, html {
+    margin:0;
+}
+
+#henry_app {
+    width:100vw;
+    height:100vh;
+}
+
+#henry_mid {
+    flex-direction: column;
+    padding:10px;
+}
+
+#henry_mid > div {
+    margin:5px;
+}
+
+.flex_c {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
