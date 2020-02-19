@@ -1,0 +1,14 @@
+<div q> question 1
+
+if(myinp === answer 1)
+
+
+<div q> question 2
+
+if(myinp === answer 2)
+
+
+<div q> question 3
+
+if(myinp === answer 3)
+
