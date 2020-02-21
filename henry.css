@@ -1,0 +1,27 @@
+html, body {
+    margin:0;
+}
+
+.flex_c {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#h_app {
+    width:100vw;
+    height:100vh;
+}
+
+#h_mid {
+    flex-direction:column;
+}
+
+#h_mid > div {
+    margin:5px;
+    padding:5px;
+}
+
+#h_q{
+    font-size:24px;
+}
